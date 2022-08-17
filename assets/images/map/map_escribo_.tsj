@@ -1,0 +1,14 @@
+{ "columns":33,
+ "image":"pacman_map_.png",
+ "imageheight":275,
+ "imagewidth":540,
+ "margin":0,
+ "name":"pacman_map_",
+ "spacing":0,
+ "tilecount":561,
+ "tiledversion":"1.9.1",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.8"
+}
